@@ -1,6 +1,11 @@
 ---
 layout: post
-title: hello this is post 2 of the blog
+title: Top Services Provided by AWS
 ---
 
-this is a sample text
+- EC2
+- S3
+- RDS
+- Cloudwatch
+- Cloudformation
+- Lambda
