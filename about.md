@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I'm Mohit Verma SysOps Administrator, Certified by AWS and RedHat.
 
-### More Information
+### My Skills
 
-A place to include any other types of information that you'd like to include about yourself.
+AWS Cloud
+Linux Servers
+Databases
+Networking
+CI/CD Pipeline
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[itsmohit180@gmail.com](mailto:email@domain.com)
