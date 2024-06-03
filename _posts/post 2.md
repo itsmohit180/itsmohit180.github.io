@@ -1,1 +1,2 @@
-hello this is sample post 2
+layout: post
+title: hello this is post 2 of the blog
