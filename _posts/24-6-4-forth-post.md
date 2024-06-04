@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSAIL MIT 1.1 - Shell and Shell Scripting
+title: CSAIL MIT 01 - Shell and Shell Scripting
 ---
 
 Shell is what we basically use to interact with the system/kernel at low level.
@@ -15,19 +15,19 @@ ls -la
 echo "hello" > File1.txt
 ```
 
-### variables
+### Variables
 ```
 #!/bin/bash
 TEST="this is a sample string"
 echo $TEST
 ```
 
-### taking arguments from user
+### Taking arguments from user
 ```
 #!/bin/bash
 mkdir -p "$1"
 ```
-### execute commands based on previous commands exit code
+### Execute commands based on previous commands exit code
 ```
 #!/bin/bash
 systemctl status $1 > /dev/null
@@ -40,7 +40,7 @@ else
 fi
 ```
 
-### script to find specified file and perform specified action/command on it
+### Script to find specified file and perform specified action/command on it
 ```
 #!/bin/bash
 find . -iname $1 -exec $2 {} \;
