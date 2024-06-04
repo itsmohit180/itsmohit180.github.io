@@ -1,9 +1,9 @@
 ---
 layout: post
-title: What is Jaykell and why we use it in github
+title: What is Jekyll and why we use it in github
 ---
 
-Jaykell is static site generator for github, we use this to generate static site for blogs.
+Jekyll is static site generator for github, we use this to generate static site for blogs.
 its written in ruby. 
 Steps:
 - fork the jekyll-now repo to your account
