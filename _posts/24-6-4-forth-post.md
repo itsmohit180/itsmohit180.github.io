@@ -12,4 +12,12 @@ its very useful when doing repetative tasks and to automate some executions.
 ```
 #!/bin/bash
 ls -la
+echo "hello" > File1.txt
+```
+
+### variables
+```
+#!/bin/bash
+TEST="this is a sample string"
+echo $TEST
 ```
