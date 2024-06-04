@@ -27,3 +27,15 @@ echo $TEST
 #!/bin/bash
 mkdir -p "$1"
 ```
+### execute commands based on previous commands exit code
+```
+#!/bin/bash
+systemctl status $1 > /dev/null
+
+if [ $? = 0 ]
+then
+        echo "previous commands output was true"
+else
+        echo "previous commands output was false"
+fi
+```
