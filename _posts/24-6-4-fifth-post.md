@@ -10,8 +10,9 @@ Vim is a text editor usually used in linux and its very popular and improved ver
 
 ### Basic commands
 ```
-i --> activate insert mode
-esc --> deactivate insert mode
-:wq --> write and quit
-:q! --> force quit
+|---    |---                    |
+| i	    | activate insert mode  |
+| esc	| deactivate insert mode|
+| :wq	| write and quit        |
+| :q!	| force quit            |
 ```
