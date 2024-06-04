@@ -21,3 +21,9 @@ echo "hello" > File1.txt
 TEST="this is a sample string"
 echo $TEST
 ```
+
+### taking arguments from user
+```
+#!/bin/bash
+mkdir -p "$1"
+```
