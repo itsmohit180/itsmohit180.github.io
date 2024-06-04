@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSAIL-MIT 1.1 Shell and Shell Scripting
+title: [CSAIL MIT] 1.1 Shell and Shell Scripting
 ---
 
 Shell is what we basically use to interact with the system/kernel at low level.
