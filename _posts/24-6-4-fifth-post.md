@@ -15,3 +15,23 @@ esc     deactivate insert mode
 :wq     write and quit        
 :q!     force quit            
 ```
+
+### Movement options
+```
+j   down
+k   up
+h   left
+l   right
+
+H   jump to top line
+L   jump to bottom
+
+gg  jump to beginning of the file
+G   jump to end of the file
+```
+
+### Search
+```
+/text you want to search from top
+?text you want to search from bottom
+```
