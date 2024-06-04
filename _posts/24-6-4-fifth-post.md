@@ -35,3 +35,24 @@ G   jump to end of the file
 /text you want to search from top
 ?text you want to search from bottom
 ```
+
+### Selection options
+```
+v   to enter visual mode
+y   to copy the text
+p   to paste the text
+```
+
+### Customization file location
+```
+~/.vimrc       for local user
+/etc/vimrc     universal file
+```
+
+### Plugins
+```
+plugins are used to extend the functionality of vim
+place where you will store plugins files:
+- ~/.vim/pack/vendor/start/
+- you can manually copy or use git clone.
+```
