@@ -39,3 +39,9 @@ else
         echo "previous commands output was false"
 fi
 ```
+
+### script to find specified file and perform specified action/command on it
+```
+#!/bin/bash
+find . -iname $1 -exec $2 {} \;
+```
