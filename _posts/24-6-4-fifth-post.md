@@ -53,6 +53,6 @@ p   to paste the text
 ```
 plugins are used to extend the functionality of vim
 place where you will store plugins files:
-- ~/.vim/pack/vendor/start/
+- ~/.vim/pack/<vendor>/start/
 - you can manually copy or use git clone.
 ```
